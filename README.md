@@ -3,13 +3,22 @@
 # Hi, I'm Ashika 
 
 ## About Me
-I am a Computer Science student with a strong interest in Artificial Intelligence, Machine Learning, and Cloud Computing. I enjoy building practical projects and exploring how scalable cloud systems power intelligent applications.
+I am a Computer Science student with a strong interest in Artificial Intelligence, Machine Learning, and Cloud Computing.  
+I enjoy building practical projects and exploring scalable cloud-based systems.
+
+Currently, I am learning AI/ML concepts, strengthening my problem-solving skills through Data Structures and Algorithms in C++, 
+and exploring full-stack web development.
+I also have keen interest in designing.
+
+This profile highlights my academic work, my projects, and continuous learning journey.
+
 
 ## Skills
 - Programming: C++, Python  
 - Cloud: AWS (EC2, S3, Lambda – basics)  
 - Core CS: Data Structures & Algorithms  
-- Web: HTML, CSS, JavaScript (learning)  
+- Web: HTML, CSS, JavaScript, React, NodeJS
+- Designing Tools: Canva, Figma
 - Tools: Git, GitHub  
 
 ## Currently Learning
@@ -20,15 +29,14 @@ I am a Computer Science student with a strong interest in Artificial Intelligenc
 ## Interests
 - AI/ML-driven systems  
 - Cloud-native architectures  
-- Backend development and APIs  
-- Hackathons and project-based learning  
-
+- Fullstack Development 
+- Project-based learning  
+- Designing
+  
 ## Goals
 - Build intelligent, cloud-based applications  
 - Strengthen problem-solving and system design skills  
 - Continuously learn and apply new technologies  
-
-📌 This profile showcases my academic work, projects, and learning journey.
 
 ## 💻 Tech Stack:
 
