@@ -38,6 +38,20 @@ This profile highlights my academic work, my projects, and continuous learning j
 - Strengthen problem-solving and system design skills  
 - Continuously learn and apply new technologies  
 
+
+## Connections and Socials
+
+<p align="left">
+  <a href="mailto:ashikamaheshwari.sde@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ashika-maheshwari-8b1556338/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+
+
 ## 💻 Tech Stack:
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
