@@ -70,5 +70,11 @@ This profile highlights my academic work, my projects, and continuous learning j
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashika0705)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ashika0705)
+
 
 
