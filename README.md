@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Ashika 
+## Hi, I'm Ashika 
 
 ## About Me
 I am a Computer Science student with a strong interest in Artificial Intelligence, Machine Learning, and Cloud Computing.  
