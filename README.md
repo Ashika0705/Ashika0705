@@ -6,7 +6,7 @@
 I am a Computer Science student with a strong interest in Artificial Intelligence, Machine Learning, and Cloud Computing.  
 I enjoy building practical projects and exploring scalable cloud-based systems.
 
-Currently, I am learning AI/ML concepts, strengthening my problem-solving skills through Data Structures and Algorithms in C++, 
+Currently, I am learning AI/ML concepts, AWS concepts, strengthening my problem-solving skills through Data Structures and Algorithms in C++, 
 and exploring full-stack web development.
 I also have keen interest in designing.
 
@@ -22,7 +22,8 @@ This profile highlights my academic work, my projects, and continuous learning j
 - Tools: Git, GitHub  
 
 ## Currently Learning
-- Artificial Intelligence & Machine Learning  
+- Artificial Intelligence & Machine Learning
+- AWS and Cloud architecture
 - Data Structures and Algorithms in C++  
 - Full-stack web development  
 
